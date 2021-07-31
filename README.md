@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akncnkoc
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Ruby
+- 📫 How to reach me ? You cannot :)
