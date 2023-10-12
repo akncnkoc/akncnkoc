@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akncnkoc" alt="akncnkoc" /></a> </p>
 
 - 🔭 I’m currently working on **Laravel - React Full Stack CRM**
-- 
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [http://akincankoc.com](http://akincankoc.com)
