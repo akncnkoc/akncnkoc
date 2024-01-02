@@ -14,10 +14,10 @@
 
 - 📫 How to reach me **akincankoc.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akincankoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akincankoc" height="30" width="40" /></a>
-<a href="/https://piyushgarg.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://piyushgarg.dev/rss.xml" height="30" width="40" /></a>
+<h3 align="left">Connect with me on <a href="https://linkedin.com/in/akincankoc" target="blank">LinkedIn&nbsp<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akincankoc" height="18" width="24" /></a> </h3>
+<!-- <p align="left"> -->
+<!-- <a href="https://linkedin.com/in/akincankoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akincankoc" height="30" width="40" /></a> -->
+<!-- <a href="/https://piyushgarg.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://piyushgarg.dev/rss.xml" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
