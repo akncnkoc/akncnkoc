@@ -5,14 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akncnkoc" alt="akncnkoc" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel - React Full Stack CRM**
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [http://akincankoc.com](http://akincankoc.com)
 
-- 💬 Ask me about **Node.js, React, Postgresql, MongoDB Etc.**
-
-- 📫 How to reach me **akincankoc.com**
+- 📫 How to reach me **akincankoc@gmail.com**
 
 <h3 align="left">Connect with me on <a href="https://linkedin.com/in/akincankoc" target="blank">LinkedIn&nbsp<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akincankoc" height="18" width="24" /></a> </h3>
 <!-- <p align="left"> -->
